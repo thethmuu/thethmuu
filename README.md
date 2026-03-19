@@ -6,5 +6,5 @@ I enjoy running my entire business from the terminal and building with agentic c
 
 ### Current Projects
 
-- `buffer-cli` - the safer terminal CLI for drafting and publishing with Buffer
+- [`buffer-cli`](https://github.com/supacart/buffer-cli) - the safer terminal CLI for drafting and publishing with Buffer
 - ⚡ Fun fact: I live in at least 2 cities every month. (Yes, I bring a laptop whenever I travel.)
