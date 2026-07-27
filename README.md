@@ -2,6 +2,5 @@
 
 I enjoy running my entire business from the terminal and building with agentic coding tools.
 
-- 🌱 Currently working on [SupaCart](https://www.supacart.company)
-
-⚡ Fun fact: I live in at least 2 cities every month. (Yes, I bring a laptop whenever I travel.)
+- 🌱 Currently working on [SupaCart](https://www.supacart.org)
+- 🪴 Watch my new [TikTok](https://www.tiktok.com/@neepyinnyar.com) where I yap about technology
